@@ -12,6 +12,9 @@ cd /path/to/your/ovpn
 ```
 
 2. Run OpenVPN:
+
+### The .ovpn file and the auth credentials will be provided by the admins.
+
 ```bash
 sudo openvpn --config your-config.ovpn
 ```
