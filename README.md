@@ -4,8 +4,8 @@ This repository contains OpenVPN client setup guides for different operating sys
 
 ## Available Guides
 
-- [Ubuntu Setup](ubuntu.md)
-- [Windows Setup](windows.md)
+- [Ubuntu Setup](ubuntu-client.md)
+- [Windows Setup](windows-client.md)
 
 ## General Requirements
 
